@@ -44,6 +44,8 @@ public class MainActivity extends AppCompatActivity implements ForecastAdapterOn
     private TextView mErrorMessageDisplay;
 
     private ProgressBar mLoadingIndicator;
+    //Test Commit
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
